@@ -1,0 +1,4 @@
+hobbies.txt
+Traveling
+Technology
+Learning Automation
